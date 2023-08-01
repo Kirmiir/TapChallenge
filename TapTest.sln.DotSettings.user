@@ -1,0 +1,26 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=de6ab3a4_002D9363_002D47d0_002D8e60_002D98b0b00fa085/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SimpleTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;And&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::6957FC20-8531-420D-9E60-9AF49070CA8B::net6.0::TapTest.Tests.DataTest.SimpleTest&lt;/TestId&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::6957FC20-8531-420D-9E60-9AF49070CA8B::net6.0::TapTest.Tests.Loaders.TextReaderLoaderTest.Simple&lt;/TestId&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::6957FC20-8531-420D-9E60-9AF49070CA8B::net6.0::TapTest.Tests.ThresholdTests.ThresholdCalculationTest&lt;/TestId&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::6957FC20-8531-420D-9E60-9AF49070CA8B::net6.0::TapTest.Tests.FullCycleTests.FullCycleTest&lt;/TestId&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::6957FC20-8531-420D-9E60-9AF49070CA8B::net6.0::TapTest.Tests.ThresholdTests&lt;/TestId&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::6957FC20-8531-420D-9E60-9AF49070CA8B::net6.0::TapTest.Tests.InstituteServiceTests.CreateInstitute&lt;/TestId&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::6957FC20-8531-420D-9E60-9AF49070CA8B::net6.0::TapTest.Tests.InstituteServiceTests.ApplyForInstitute&lt;/TestId&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::6957FC20-8531-420D-9E60-9AF49070CA8B::net6.0::TapTest.Tests.InstituteServiceTests.ApplyForInstituteMissingError&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+      &lt;Not&gt;&#xD;
+        &lt;TestAncestor&gt;&#xD;
+          &lt;TestId&gt;NUnit3x::6957FC20-8531-420D-9E60-9AF49070CA8B::net6.0::TapTest.Tests.DataTest&lt;/TestId&gt;&#xD;
+        &lt;/TestAncestor&gt;&#xD;
+      &lt;/Not&gt;&#xD;
+    &lt;/And&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::6957FC20-8531-420D-9E60-9AF49070CA8B::net6.0::TapTest.Tests.ApplicationManagerTest.Simpe&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::6957FC20-8531-420D-9E60-9AF49070CA8B::net6.0::TapTest.Tests.ApplicationManagerTest.FilterTest&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,38 @@
+{
+  "Departments": [
+    {
+      "DepartmentKey": "s",
+      "SelectionOptions": [
+        {
+          "Type": "Threshold",
+          "Options": "{\"Bindings\":[\"English\",\"Math\",\"Science\",\"Japanese\",\"Geography/History\"],\"Threshold\":350}"
+        },
+        {
+          "Type": "Threshold",
+          "Options": "{\"Bindings\":[\"Math\",\"Science\"],\"Threshold\":160}"
+        },
+        {
+          "Type": "Top",
+          "Options": "{\"OrderBy\":\"Math\",\"N\":10}"
+        }
+      ]
+    },
+    {
+      "DepartmentKey": "l",
+      "SelectionOptions": [
+        {
+          "Type": "Threshold",
+          "Options": "{\"Bindings\":[\"English\",\"Math\",\"Science\",\"Japanese\",\"Geography/History\"],\"Threshold\":350}"
+        },
+        {
+          "Type": "Threshold",
+          "Options": "{\"Bindings\":[\"Japanese\",\"Geography/History\"],\"Threshold\":160}"
+        },
+        {
+          "Type": "Top",
+          "Options": "{\"OrderBy\":\"Math\",\"N\":10}"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "Binding": "English",
+    "ColumnIndex": 0
+  },
+  {
+    "Binding": "Math",
+    "ColumnIndex": 1
+  },
+  {
+    "Binding": "Science",
+    "ColumnIndex": 2
+  },
+  {
+    "Binding": "Japanese",
+    "ColumnIndex": 3
+  },
+  {
+    "Binding": "Geography/History",
+    "ColumnIndex": 4
+  }
+]
